@@ -1,7 +1,0 @@
-{
-  "functions": {
-    "api/veo3.js": {
-      "runtime": "nodejs22.x"
-    }
-  }
-}
