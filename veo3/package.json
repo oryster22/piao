@@ -1,0 +1,15 @@
+{
+  "name": "vercel-veo3-api",
+  "version": "1.0.0",
+  "description": "Vercel endpoint for Veo3 Service",
+  "main": "api/v12.js",
+  "type": "module",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "axios-cookiejar-support": "^5.0.2",
+    "tough-cookie": "^4.1.4"
+  }
+}
